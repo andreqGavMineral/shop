@@ -1,0 +1,10 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class=" Icon Icon_size_m" width="20"
+     height="20">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="Wishlist">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M3.25 1.25H16.75V16.1315C16.75 17.5292 15.1922 18.3629 14.0293 17.5876L10 14.9014L5.97073 17.5876C4.80775 18.3629 3.25 17.5292 3.25 16.1315V1.25ZM4.75 2.75V16.1315C4.75 16.3312 4.97254 16.4503 5.13867 16.3395L9.58397 13.376C9.8359 13.208 10.1641 13.208 10.416 13.376L14.8613 16.3395C15.0275 16.4503 15.25 16.3312 15.25 16.1315V2.75H4.75Z"></path>
+    </symbol>
+  </defs>
+  <use href="#Wishlist" fill="#5D5D64"></use>
+</svg>

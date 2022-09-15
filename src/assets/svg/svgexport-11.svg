@@ -1,0 +1,13 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="Menu">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M18.75 9.99998C18.75 10.4142 18.4142 10.75 18 10.75L1.24999 10.75V9.24998L18 9.24998C18.4142 9.24998 18.75 9.58577 18.75 9.99998Z"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M18.75 16.0022C18.75 16.4164 18.4142 16.7522 18 16.7522H1.24999V15.2522L18 15.2522C18.4142 15.2522 18.75 15.588 18.75 16.0022Z"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M18.75 3.99998C18.75 4.4142 18.4142 4.74998 18 4.74998L1.24999 4.74998V3.24998L18 3.24998C18.4142 3.24998 18.75 3.58577 18.75 3.99998Z"></path>
+    </symbol>
+  </defs>
+  <use href="#Menu" ></use>
+</svg>
